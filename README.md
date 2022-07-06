@@ -26,6 +26,10 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+## Live URL
+
+Open [http://api.graneet.grimfeld.tech/](http://api.graneet.grimfeld.tech/) in your browser to see the live app.
+
 ## Installation
 
 ```bash
